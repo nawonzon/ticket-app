@@ -42,4 +42,4 @@ npm
 npm run start
 ```
 
-If you have any problem I recommend that you refer to the react native documentation.
+If you have any problem I recommend that you refer to the react documentation.
